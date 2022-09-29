@@ -1,0 +1,17 @@
+form {
+    padding: 10px 0px;
+    /* border: solid black;
+    border-radius: 8px; */
+    width: fit-content;
+   
+}
+.btnContact{
+    margin-top: 8px;
+}
+.inputTitle{
+    background-color: rgb(242, 253, 181);
+    margin: 12px 0px 4px 0px;
+    border-radius: 4px;
+    border: solid 1px rgb(66, 66, 66); 
+    width: fit-content;
+}
